@@ -1,0 +1,9 @@
+id,primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,telefono,celular,direccion,email,fecha_nacimiento,observaciones
+1002,jhon,Aristedes,flores,bartra,-,923384894,av los angeles,gmail@gmail.com,19-02-1999,No hay observaciones
+3002,jhonel,,puerta,castillo,00-22993,929802830,jr. enrrique segoviano,example@gmail.com,18-10-01,faltó a clases mas de una vez
+3003,nuevo, alumno ,code,null,null,929802830,null,null,null,null
+4002,jhonel,andres,puerta,castillo,00-234,929802830,av centenario,email,18-10-01,no hay observaciones
+4007,mitsumi,,,,,,,,,
+4008,mitsumi,,,,,,,,,
+4009,prueva,,,,,,,,,
+4010,prueva,,,,,,,,,
