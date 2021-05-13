@@ -1,0 +1,15 @@
+C:\Users\jhonel\source\repos\senati-tarea\bussines\bin\Debug\bussines.dll
+C:\Users\jhonel\source\repos\senati-tarea\bussines\bin\Debug\bussines.pdb
+C:\Users\jhonel\source\repos\senati-tarea\bussines\bin\Debug\bussines.xml
+C:\Users\jhonel\source\repos\senati-tarea\bussines\bin\Debug\data.dll
+C:\Users\jhonel\source\repos\senati-tarea\bussines\bin\Debug\data.pdb
+C:\Users\jhonel\source\repos\senati-tarea\bussines\bin\Debug\data.xml
+C:\Users\jhonel\source\repos\senati-tarea\bussines\bin\Debug\data.dll.config
+C:\Users\jhonel\source\repos\senati-tarea\bussines\obj\Debug\capa_negocio_.vbprojAssemblyReference.cache
+C:\Users\jhonel\source\repos\senati-tarea\bussines\obj\Debug\bussines.Resources.resources
+C:\Users\jhonel\source\repos\senati-tarea\bussines\obj\Debug\capa_negocio_.vbproj.GenerateResource.cache
+C:\Users\jhonel\source\repos\senati-tarea\bussines\obj\Debug\capa_negocio_.vbproj.CoreCompileInputs.cache
+C:\Users\jhonel\source\repos\senati-tarea\bussines\obj\Debug\capa_negocio_.vbproj.CopyComplete
+C:\Users\jhonel\source\repos\senati-tarea\bussines\obj\Debug\bussines.dll
+C:\Users\jhonel\source\repos\senati-tarea\bussines\obj\Debug\bussines.xml
+C:\Users\jhonel\source\repos\senati-tarea\bussines\obj\Debug\bussines.pdb

@@ -1,0 +1,17 @@
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\obj\Debug\netcoreapp3.1\Entidades.vbprojAssemblyReference.cache
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.vb
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\obj\Debug\netcoreapp3.1\Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\bin\Debug\netcoreapp3.1\bussines.dll
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\bin\Debug\netcoreapp3.1\data.dll
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\bin\Debug\netcoreapp3.1\bussines.pdb
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\bin\Debug\netcoreapp3.1\bussines.xml
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\bin\Debug\netcoreapp3.1\data.pdb
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\bin\Debug\netcoreapp3.1\data.xml
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\bin\Debug\netcoreapp3.1\data.dll.config
+C:\Users\jhonel\source\repos\senati-tarea\Entidades\obj\Debug\netcoreapp3.1\Entidades.vbproj.CopyComplete

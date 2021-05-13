@@ -1,0 +1,12 @@
+C:\Users\jhonel\source\repos\senati-tarea\data\bin\Debug\data.dll.config
+C:\Users\jhonel\source\repos\senati-tarea\data\bin\Debug\data.dll
+C:\Users\jhonel\source\repos\senati-tarea\data\bin\Debug\data.pdb
+C:\Users\jhonel\source\repos\senati-tarea\data\bin\Debug\data.xml
+C:\Users\jhonel\source\repos\senati-tarea\data\obj\Debug\data.Resources.resources
+C:\Users\jhonel\source\repos\senati-tarea\data\obj\Debug\data.UserControl1.resources
+C:\Users\jhonel\source\repos\senati-tarea\data\obj\Debug\capa_datos.vbproj.GenerateResource.cache
+C:\Users\jhonel\source\repos\senati-tarea\data\obj\Debug\capa_datos.vbproj.CoreCompileInputs.cache
+C:\Users\jhonel\source\repos\senati-tarea\data\obj\Debug\data.dll
+C:\Users\jhonel\source\repos\senati-tarea\data\obj\Debug\data.xml
+C:\Users\jhonel\source\repos\senati-tarea\data\obj\Debug\data.pdb
+C:\Users\jhonel\source\repos\senati-tarea\data\obj\Debug\capa_datos.vbprojAssemblyReference.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "capa_negocio/1.0.0": {
+        "dependencies": {
+          "capa_datos": "1.0.0"
+        },
+        "runtime": {
+          "capa_negocio.dll": {}
+        }
+      },
+      "capa_datos/1.0.0": {
+        "runtime": {
+          "data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "capa_negocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "capa_datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
